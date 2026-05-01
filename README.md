@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Siddharth 👋
 
-<!--
-**Sid9397/Sid9397** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring ML Engineer from Jamnagar, Gujarat, India
 
-Here are some ideas to get you started:
+## 🧠 What I know
+- **Languages**: Python
+- **ML**: Regression, Classification, Clustering
+- **Libraries**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+- **Tools**: Jupyter Notebook, Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Data Preprocessing & Feature Engineering
+- Model Evaluation & XGBoost
+- Deep Learning (ANN & CNN) — coming soon!
+
+## 🚀 Projects
+- 🔗 [Customer Segmentation with KMeans](https://github.com/Sid9397/customer-segmentation-kmeans)
+- 🔗 [Online Retail Customer Clustering (RFM)](https://github.com/Sid9397/online-retail-customer-clustering)
+
+## 📫 Let's Connect
+- Open to **internships**, **collaborations**, and **learning opportunities**
+- 📍 Jamnagar, Gujarat, India
